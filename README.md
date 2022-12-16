@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Colisian 
-- 👀 I’m interested in growing as a Software Engineer.
+- 👀 I’m growing as a Software Engineer.
 - 🌱 I’m currently enrolled in a Software Enginering Master's Degree.
-- 💞️ I’m looking to use this page to post projects I work on and find learning resources to advance my skills.
+- 💞️ Using looking to use this page to post projects I work on and find learning resources to advance my skills.
 - 📫 How to reach me Email: cmcleod1@umd.edu
 
 <!---
