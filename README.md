@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Colisian 
-- 👀 I’m growing as a Software Engineer.
-- 🌱 I’m currently enrolled in a Software Enginering Master's Degree.
+- 👀 I am looking to continue to grow into a Software Engineering role.
+- 🌱 Currently I am enrolled in a Software Enginering Master's Degree at the UMGC while also employed at the Univristy of Maryland.
 - 💞️ Looking to use this page to post projects I work on and find learning resources to advance my skills.
 - 📫 How to reach me Email: cmcleod1@umd.edu and https://www.linkedin.com/in/colisian-mcleod/
 - 👓 I am working on growing in Java, Python and C# programming through personal and academic projects.
