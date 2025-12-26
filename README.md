@@ -33,13 +33,6 @@ Microsoft Intune • Jamf Pro • Active Directory • Azure AD/Entra • Docker
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Colisian&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
