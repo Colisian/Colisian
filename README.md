@@ -27,7 +27,7 @@ Microsoft Intune • Jamf Pro • Active Directory • Azure AD/Entra • Docker
 
 ## 🚀 Current Focus
 
-- **Infrastructure Automation** — Building deployment packages and scripts for enterprise printer management across campus libraries
+- **Infrastructure Automation** — Building deployment packages and scripts for enterprise management across campus libraries
 - **Ansible Lab Environment** — Learning configuration management through hands-on Docker-based labs
 - **Cloud Integration** — Automating Windows EC2 domain joins and exploring AWS services
 
